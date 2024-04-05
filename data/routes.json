@@ -1,0 +1,4 @@
+{
+    "/top-albums" : "/albums?tags=top",
+    "/latest-albums" : "/albums?tags=latest"
+}
